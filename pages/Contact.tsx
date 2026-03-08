@@ -60,7 +60,7 @@ const Contact: React.FC = () => {
   const contactInfo = [
     { icon: <Mail />, title: 'Email', value: 'info@securexlab.com', link: 'mailto:info@securexlab.com' },
     { icon: <Mail />, title: 'Email', value: 'contact@securexlab.com', link: 'mailto:contact@securexlab.com' },
-    { icon: <Phone />, title: 'Phone', value: '+977 123 456789', link: 'tel:+977123456789' },
+    { icon: <Phone />, title: 'Phone', value: '+977 9762932799', link: 'tel:+9779762932799' },
     { icon: <MessageCircle />, title: 'WhatsApp', value: 'Chat Now', link: `https://wa.me/${whatsappNumber}` },
     { icon: <MapPin />, title: 'Office', value: 'Birtamode-4, Jhapa, Nepal', link: '#' }
   ];
